@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @theswordpeak
-- 👀 I’m interested in little bit of programming and Data Analytics
+- 👀 I’m interested in a little bit of programming and Data Analytics
 - 🌱 I’m currently learning Google Data Analytics on Coursera
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... tbc
 
 <!---
 theswordpeak/theswordpeak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
